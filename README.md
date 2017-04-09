@@ -1,5 +1,5 @@
 # bin2src
-Convert arbitrary file to .S / .c / .cpp / .h 
+Convert any arbitrary file to .S / .c / .cpp / .h 
 
 ```
 $ ./bin2src.py 
